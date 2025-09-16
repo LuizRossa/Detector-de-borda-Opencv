@@ -1,2 +1,3 @@
-# Detector-de-borda-Opencv
-Implementação do filtro Gauss e o filtro Canny, para detectar bordas em uma imagem
+Opencv-Edge-Detector
+
+Implementation of the Gaussian filter and the Canny filter to detect edges in an image.
